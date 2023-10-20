@@ -13,12 +13,17 @@ Técnicas de seguimiento de límites (Boundaries):
 Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos utilizado la biblioteca Matplotlib para mostrarlos en una sola imagen. Cada resultado se presenta en un subplot separado, lo que facilita la comparación y evaluación de las diferentes técnicas utilizadas.
 
 
-#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena (Conectividad 4 y 8)en la imagen del círculo.
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena en la imagen original del círculo.
 
 <table>
   <tr>
     <td align="center">
-      <img src="/imagenesREADME/c_4.png" alt="Resultado 1" width="400"/>
+      <img src="imagenesREADME/c_4.png" alt="Resultado 1" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Conectividad 4
     </td>
   </tr>
 </table>
@@ -27,38 +32,103 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
 <table>
   <tr>
     <td align="center">
-      <img src="/imagenesREADME/c_8.png" alt="Resultado 2" width="400"/>
+      <img src="imagenesREADME/c_8.png" alt="Resultado 2" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Conectividad 8
     </td>
   </tr>
 </table>
 
 
-#### Resultados obtenidos de los códigos de cadenas de Freeman:
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena en la imagen del círculo rotada.
+
 <table>
   <tr>
     <td align="center">
-      <img src="/imagenesREADME/Imagen2.jpg" alt="Resultado 1" width="400"/>
+      <img src="imagenesREADME/c_4_r.png" alt="Resultado 1" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Conectividad 4
     </td>
   </tr>
 </table>
 
-#### Resultados obtenidos al aplicar la mormalización a la rotacción (First difference):
 <table>
   <tr>
     <td align="center">
-      <img src="/imagenesREADME/Imagen2.jpg" alt="Resultado 1" width="400"/>
+      <img src="imagenesREADME/c_8_r.png" alt="Resultado 1" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Conectividad 8
     </td>
   </tr>
 </table>
 
-#### Resultados obtenidos de la normalización del punto inicial con la magnitud miníma:
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena en la imagen original con de formas.
+
 <table>
   <tr>
     <td align="center">
-      <img src="/imagenesREADME/Imagen2.jpg" alt="Resultado 1" width="400"/>
+      <img src="imagenesREADME/f_4.png" alt="Resultado 1" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Conectividad 4
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="imagenesREADME/f_8.png" alt="Resultado 2" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Conectividad 8
+    </td>
+  </tr>
+</table>
+
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena en la imagen con de formas rotada.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="imagenesREADME/f_4_r.png" alt="Resultado 1" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Conectividad 4
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="imagenesREADME/f_8_r.png" alt="Resultado 1" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      Conectividad 8
+    </td>
+  </tr>
+</table>
+
+ > Nota: Los códigos de cadenas no se muestran en las imagenes, porque se imprimen en consola. Además si en algunas imágenes no se notan bien los límites es por el zoom de la imagen.
 
 ## Cómo Usar el Programa
 Aquí te proporcionamos instrucciones sobre cómo utilizar nuestro programa:
