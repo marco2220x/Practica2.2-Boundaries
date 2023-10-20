@@ -2,7 +2,7 @@
 
 En este trabajo, se han desarrollado dos algoritmos que implementan técnicas y  enfoques distintos para el seguimiento de límites de un objeto de interés en una imagen.
 
-## Técnicas de Segmentación Implementadas
+## Procesamiento de Límites (Boundaries)
 Técnicas de seguimiento de límites (Boundaries):
 
 1. **Algoritmo de seguimiento de límites (Moore Boundary Tracing):** El algoritmo de Moore es una técnica que se basa en el principio de seguimiento de límites en imágenes binarias. El objetivo del algoritmo de Moore es identificar y seguir la secuencia de píxeles que forman el límite de un objeto en una imagen. 
