@@ -7,19 +7,27 @@ Técnicas de seguimiento de límites (Boundaries):
 
 1. **Algoritmo de seguimiento de límites (Moore Boundary Tracing):** El algoritmo de Moore es una técnica que se basa en el principio de seguimiento de límites en imágenes binarias. El objetivo del algoritmo de Moore es identificar y seguir la secuencia de píxeles que forman el límite de un objeto en una imagen. 
 
-2. **Segmentación por cluster por el método de k-medias:** Los códigos de cadenas de Freeman, son una técnica para representar la forma o el contorno de objetos en imágenes digitales.
-Estos códigos se utilizan para describir la dirección de un borde o contorno en una imagen binaria.
+2. **Algoritmo de códigos de cadenas:** Los códigos de cadenas de Freeman, son una técnica para representar la forma o el contorno de objetos en imágenes digitales.Estos códigos se utilizan para describir la dirección de un borde o contorno en una imagen binaria.
 
 ## Visualización de Resultados
-Para que puedas evaluar fácilmente los resultados de cada técnica, hemos utilizado la biblioteca Matplotlib para mostrarlos en una sola imagen. Cada resultado se presenta en un subplot separado, lo que facilita la comparación y evaluación de las diferentes técnicas utilizadas.
+Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos utilizado la biblioteca Matplotlib para mostrarlos en una sola imagen. Cada resultado se presenta en un subplot separado, lo que facilita la comparación y evaluación de las diferentes técnicas utilizadas.
 
 
-#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena (Conectividad 4 y 8)en la imagen del círculo.
 
 <table>
   <tr>
     <td align="center">
-      <img src="/imagenesREADME/Imagen1.png" alt="Resultado 1" width="400"/>
+      <img src="/imagenesREADME/c_4.png" alt="Resultado 1" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="/imagenesREADME/c_8.png" alt="Resultado 2" width="400"/>
     </td>
   </tr>
 </table>
