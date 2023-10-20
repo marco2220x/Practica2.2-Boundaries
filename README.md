@@ -13,12 +13,12 @@ Técnicas de seguimiento de límites (Boundaries):
 Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos utilizado la biblioteca Matplotlib para mostrarlos en una sola imagen. Cada resultado se presenta en un subplot separado, lo que facilita la comparación y evaluación de las diferentes técnicas utilizadas.
 
 
-#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena en la imagen original del círculo.
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algoritmo de códigos de cadena en la imagen original del círculo.
 
 <table>
   <tr>
     <td align="center">
-      <img src="imagenesREADME/c_4.png" alt="Resultado 1" width="400"/>
+      <img src="/ImagenesReadme/c_4.png" alt="Resultado 1" width="400"/>
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
 <table>
   <tr>
     <td align="center">
-      <img src="imagenesREADME/c_8.png" alt="Resultado 2" width="400"/>
+      <img src="/ImagenesReadme/c_8.png" alt="Resultado 2" width="400"/>
     </td>
   </tr>
   <tr>
@@ -43,12 +43,12 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
 </table>
 
 
-#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena en la imagen del círculo rotada.
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algoritmo de códigos de cadena en la imagen del círculo rotada.
 
 <table>
   <tr>
     <td align="center">
-      <img src="imagenesREADME/c_4_r.png" alt="Resultado 1" width="400"/>
+      <img src="/ImagenesReadme/c_4_r.png" alt="Resultado 3" width="400"/>
     </td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
 <table>
   <tr>
     <td align="center">
-      <img src="imagenesREADME/c_8_r.png" alt="Resultado 1" width="400"/>
+      <img src="/ImagenesReadme/c_8_r.png" alt="Resultado 4" width="400"/>
     </td>
   </tr>
   <tr>
@@ -71,12 +71,12 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
   </tr>
 </table>
 
-#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena en la imagen original con de formas.
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algoritmo de códigos de cadena en la imagen original con de formas.
 
 <table>
   <tr>
     <td align="center">
-      <img src="imagenesREADME/f_4.png" alt="Resultado 1" width="400"/>
+      <img src="/ImagenesReadme/f_4.png" alt="Resultado 5" width="400"/>
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
 <table>
   <tr>
     <td align="center">
-      <img src="imagenesREADME/f_8.png" alt="Resultado 2" width="400"/>
+      <img src="/ImagenesReadme/f_8.png" alt="Resultado 6" width="400"/>
     </td>
   </tr>
   <tr>
@@ -100,12 +100,12 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
   </tr>
 </table>
 
-#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algorittmo de códigos de cadena en la imagen con de formas rotada.
+#### Resultados obtenidos a partir de implementar el seguimiento de contornos por el algoritmo de Moore y el algoritmo de códigos de cadena en la imagen con de formas rotada.
 
 <table>
   <tr>
     <td align="center">
-      <img src="imagenesREADME/f_4_r.png" alt="Resultado 1" width="400"/>
+      <img src="/ImagenesReadme/f_4_r.png" alt="Resultado 7" width="400"/>
     </td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@ Para que puedas evaluar fácilmente los resultados de cada técnicas, hemos util
 <table>
   <tr>
     <td align="center">
-      <img src="imagenesREADME/f_8_r.png" alt="Resultado 1" width="400"/>
+      <img src="/ImagenesReadme/f_8_r.png" alt="Resultado 8" width="400"/>
     </td>
   </tr>
   <tr>
